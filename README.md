@@ -35,7 +35,7 @@ Dreamforce 2018 session on how to use Visual Studio Code and Salesforce Extensio
 
 ## Getting Started
 
-If you are interested in contributing, please take a look at the [CONTRIBUTING](CONTRIBUTING.md) guide.
+If you are interested in contributing, please take a look at the [CONTRIBUTING](contributing/CONTRIBUTING.md) guide.
 
 If you are interested in building the extensions locally, please take a look at the publishing [doc](contributing/publishing.md).
 
